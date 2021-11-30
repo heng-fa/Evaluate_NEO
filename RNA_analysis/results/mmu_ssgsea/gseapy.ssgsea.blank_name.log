@@ -1,0 +1,60 @@
+LINE 641 : 2021-11-30 00:11:30,418 [INFO    ] Parsing data files for ssGSEA...........................
+LINE 579 : 2021-11-30 00:11:30,418 [DEBUG   ] Input data is a DataFrame with gene names
+LINE 138 : 2021-11-30 00:11:30,481 [INFO    ] 0000 gene_sets have been filtered out when max_size=2000 and min_size=2
+LINE 648 : 2021-11-30 00:11:30,482 [INFO    ] 0007 gene_sets used for further statistical testing.....
+LINE 652 : 2021-11-30 00:11:30,482 [INFO    ] Start to run ssGSEA...Might take a while................
+LINE 744 : 2021-11-30 00:11:31,264 [INFO    ] Calculate Enrichment Score for Sample: s2a TPM 
+LINE 744 : 2021-11-30 00:11:31,265 [INFO    ] Calculate Enrichment Score for Sample: s2b TPM 
+LINE 744 : 2021-11-30 00:11:31,265 [INFO    ] Calculate Enrichment Score for Sample: s2c TPM 
+LINE 744 : 2021-11-30 00:11:31,266 [INFO    ] Calculate Enrichment Score for Sample: s3a TPM 
+LINE 744 : 2021-11-30 00:11:31,266 [INFO    ] Calculate Enrichment Score for Sample: s3b TPM 
+LINE 744 : 2021-11-30 00:11:31,266 [INFO    ] Calculate Enrichment Score for Sample: s3c TPM 
+LINE 744 : 2021-11-30 00:11:31,266 [INFO    ] Calculate Enrichment Score for Sample: s4a TPM 
+LINE 744 : 2021-11-30 00:11:31,267 [INFO    ] Calculate Enrichment Score for Sample: s4b TPM 
+LINE 744 : 2021-11-30 00:11:31,267 [INFO    ] Calculate Enrichment Score for Sample: s4c TPM 
+LINE 744 : 2021-11-30 00:11:31,267 [INFO    ] Calculate Enrichment Score for Sample: s1a TPM 
+LINE 744 : 2021-11-30 00:11:31,267 [INFO    ] Calculate Enrichment Score for Sample: s1c TPM 
+LINE 744 : 2021-11-30 00:11:31,268 [INFO    ] Calculate Enrichment Score for Sample: s5a TPM 
+LINE 744 : 2021-11-30 00:11:31,268 [INFO    ] Calculate Enrichment Score for Sample: s5b TPM 
+LINE 744 : 2021-11-30 00:11:31,268 [INFO    ] Calculate Enrichment Score for Sample: s6a TPM 
+LINE 744 : 2021-11-30 00:11:31,272 [INFO    ] Calculate Enrichment Score for Sample: s6b TPM 
+LINE 744 : 2021-11-30 00:11:31,272 [INFO    ] Calculate Enrichment Score for Sample: s7c TPM 
+LINE 778 : 2021-11-30 00:11:31,274 [INFO    ] Congratulations. GSEApy runs successfully................
+
+LINE 620 : 2021-11-30 00:11:31,326 [DEBUG   ] locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f0fb8df7100>
+LINE 665 : 2021-11-30 00:11:31,326 [DEBUG   ] Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f0fb8df7100> on colorbar
+LINE 794 : 2021-11-30 00:11:31,326 [DEBUG   ] Setting pcolormesh
+LINE 2820: 2021-11-30 00:11:31,419 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:11:31,481 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:11:31,515 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:11:31,554 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:11:31,601 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:57,582 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:57,660 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:57,661 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 620 : 2021-11-30 00:21:57,704 [DEBUG   ] locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f0fc1332550>
+LINE 665 : 2021-11-30 00:21:57,704 [DEBUG   ] Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f0fc1332550> on colorbar
+LINE 794 : 2021-11-30 00:21:57,704 [DEBUG   ] Setting pcolormesh
+LINE 2820: 2021-11-30 00:21:57,742 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:57,743 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:57,788 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:57,810 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:57,812 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:57,844 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:57,850 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:57,854 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:57,957 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:57,967 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:57,968 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:58,017 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:58,024 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:58,025 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:58,049 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:58,054 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:58,055 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:58,091 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:58,092 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:58,114 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:58,118 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:58,119 [DEBUG   ] top of axes not in the figure, so title not moved
+LINE 2820: 2021-11-30 00:21:58,173 [DEBUG   ] top of axes not in the figure, so title not moved

@@ -1,0 +1,29 @@
+Cytochrome	Glycogen_metabolism	Glucose_metabolism	Lipd_metabolism	Complement_activation	Urea_cycle	Steroid_metabolism
+Cyp2c40	Nr1d1	Wdtc1	Slc16a1	Crp	Oat	Akr1c14
+Cyp2c50	Irs1	Aldh5a1	Lpin1	C1rl	Ckb	Sultb1
+Cyp4f15	Agl	Mlycd	Lpin2	Cfi	Ass1	Sult2a2
+Cyp2j5	Slc37a4	Irs1	Pnpla7	Cfh	Acy1	G6pc
+Cyp2c44	Ppp1r3b	Galm	Hacl1	Cfb	Odc1	Sult2a1
+Cyp2c37	Tcf7l2	Pgm1	Pemt	C3	Asl	Slc37a4
+Cyp2a4	Khk	Pdk2	Angptl4	Mbl1	Otc	
+Cyp2a5	Gbe1	Crem	Thrb	C9	Cps1	
+Cyp2d22	Acadm	Rora	Spns2	C6	Bbox1	
+Cyp2j6	Gcgr	Pik3r1	Acot1	C4a	Arg1	
+Cyp4f16	G6pc	Igfbp3	Pck1	Masp2	Dio1	
+Cyp4f14	Gys2	Nr3c1	Aspg	A2m	Pycr1	
+Cyp4f13	Adra1b	Cpt1a	Cyp8b1	Masp1	Arg2	
+Cyp2r1	Pygl	Dcxr	Bbs1		Gatm	
+Cyp2c55	Gnmt	Pdhb	Psapl1		Glud1	
+Cyp1a1	Cps1	Ugp2	Apoa1		Ttr	
+Cyp4b1	Il6st	Fgl1	Apoc3			
+Cyp1b1	Enpp1	Igfbp4	Apoe			
+Cyp4v3	Phkb	Igfbp1	Apoc1			
+Cyp2d10	Pgm1	Gpld1	Apob			
+Cyp3a13	Ppp1r3c	Gckr	Thrsp			
+Cyp1a2	Ppp1r3g	Pck1				
+Cyp3a25	Adrb1	Igf1				
+Cyp2d26		Pdk4				
+Cyp2c29		Oas1a				
+Cyp3a11		Pdx1				
+Cyp2e1						
+
